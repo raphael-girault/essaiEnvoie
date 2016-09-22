@@ -6,6 +6,8 @@ public class AppTest {
 		
 		System.out.println("Hello World !!");
 		
+		System.out.println("super miguel rocks du poney !!");
+		
 	}
 
 }
